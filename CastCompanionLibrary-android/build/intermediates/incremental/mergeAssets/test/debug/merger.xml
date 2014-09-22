@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="20.0.0" >
+        <source path="/Users/janar/Android/samples/chromecast/CastVideos-android/CastCompanionLibrary-android/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/assets" />
+    </dataSet>
+    <dataSet config="5.0.77" >
+        <source path="/Users/janar/Android/samples/chromecast/CastVideos-android/CastCompanionLibrary-android/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.77/assets" />
+    </dataSet>
+    <dataSet config="20.0.0" >
+        <source path="/Users/janar/Android/samples/chromecast/CastVideos-android/CastCompanionLibrary-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/assets" />
+    </dataSet>
+    <dataSet config="20.0.0" >
+        <source path="/Users/janar/Android/samples/chromecast/CastVideos-android/CastCompanionLibrary-android/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/20.0.0/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/janar/Android/samples/chromecast/CastVideos-android/CastCompanionLibrary-android/build/intermediates/bundles/debug/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/janar/Android/samples/chromecast/CastVideos-android/CastCompanionLibrary-android/src/androidTest/assets" />
+    </dataSet>
+
+</merger>
