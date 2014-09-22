@@ -137,4 +137,4 @@
         android:layout_centerInParent="true"
         android:visibility="gone" />
 
-</RelativeLayout><!-- From: file:/Users/janar/Android/samples/chromecast/CastVideos-android/CastCompanionLibrary-android/res/layout-land/cast_activity.xml -->
+</RelativeLayout><!-- From: file:/Users/janar/janars/prototypes/voicecastvideo/CastCompanionLibrary-android/res/layout-land/cast_activity.xml -->

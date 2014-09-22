@@ -25,4 +25,4 @@
         android:textSize="@dimen/captions_dialog_row_text_size"
         android:layout_toLeftOf="@+id/radio"
         android:layout_toStartOf="@+id/radio" />
-</RelativeLayout><!-- From: file:/Users/janar/Android/samples/chromecast/CastVideos-android/CastCompanionLibrary-android/res/layout/tracks_row_layout.xml -->
+</RelativeLayout><!-- From: file:/Users/janar/janars/prototypes/voicecastvideo/CastCompanionLibrary-android/res/layout/tracks_row_layout.xml -->

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/Users/janar/Android/samples/chromecast/CastVideos-android/CastCompanionLibrary-android/res/values-sw600dp-land/dimens.xml -->
+    <!-- From: file:/Users/janar/janars/prototypes/voicecastvideo/CastCompanionLibrary-android/res/values-sw600dp-land/dimens.xml -->
     <eat-comment />
 
     <dimen name="ccl_castplayer_bgimage_width">500dp</dimen>

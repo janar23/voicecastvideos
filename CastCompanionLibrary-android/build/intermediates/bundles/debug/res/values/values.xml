@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/Users/janar/Android/samples/chromecast/CastVideos-android/CastCompanionLibrary-android/res/values/arrays.xml -->
+    <!-- From: file:/Users/janar/janars/prototypes/voicecastvideo/CastCompanionLibrary-android/res/values/arrays.xml -->
     <eat-comment />
 
     <string-array name="prefs_caption_color_names">
@@ -78,7 +78,7 @@
         <item>device</item>
         <item>stream</item>
     </string-array>
-    <!-- From: file:/Users/janar/Android/samples/chromecast/CastVideos-android/CastCompanionLibrary-android/res/values/colors.xml -->
+    <!-- From: file:/Users/janar/janars/prototypes/voicecastvideo/CastCompanionLibrary-android/res/values/colors.xml -->
     <eat-comment />
 
     <color name="black">#000000</color>
@@ -92,7 +92,7 @@
     <color name="orange_transparent">#AAFADCA7</color>
     <color name="soft_opaque">#30000000</color>
     <color name="white">#FFFFFF</color>
-    <!-- From: file:/Users/janar/Android/samples/chromecast/CastVideos-android/CastCompanionLibrary-android/res/values/dimens.xml -->
+    <!-- From: file:/Users/janar/janars/prototypes/voicecastvideo/CastCompanionLibrary-android/res/values/dimens.xml -->
     <eat-comment />
 
     <dimen name="activity_horizontal_margin">16dp</dimen>
@@ -103,12 +103,12 @@
     <dimen name="mini_controller_font_size_line2">13sp</dimen>
     <dimen name="mini_controller_icon_height">50dp</dimen>
     <dimen name="mini_controller_icon_width">89dp</dimen>
-    <!-- From: file:/Users/janar/Android/samples/chromecast/CastVideos-android/CastCompanionLibrary-android/res/values/strings.xml -->
+    <!-- From: file:/Users/janar/janars/prototypes/voicecastvideo/CastCompanionLibrary-android/res/values/strings.xml -->
     <eat-comment />
 
     <string name="app_name">Cast Companion Library</string>
     <string name="cancel">Cancel</string>
-    <!-- From: file:/Users/janar/Android/samples/chromecast/CastVideos-android/CastCompanionLibrary-android/res/values/captions.xml -->
+    <!-- From: file:/Users/janar/janars/prototypes/voicecastvideo/CastCompanionLibrary-android/res/values/captions.xml -->
     <eat-comment />
 
     <string name="caption">Caption</string>
@@ -117,11 +117,11 @@
     <string name="caption_no_text_tracks">No Text Tracks Available</string>
     <string name="caption_no_tracks_available"> No tracks available</string>
     <string name="caption_subtitles">Subtitles</string>
-    <!-- From: file:/Users/janar/Android/samples/chromecast/CastVideos-android/CastCompanionLibrary-android/res/values/strings.xml -->
+    <!-- From: file:/Users/janar/janars/prototypes/voicecastvideo/CastCompanionLibrary-android/res/values/strings.xml -->
     <eat-comment />
 
     <string name="casting_to_device">Casting to %1$s</string>
-    <!-- From: file:/Users/janar/Android/samples/chromecast/CastVideos-android/CastCompanionLibrary-android/res/values/captions.xml -->
+    <!-- From: file:/Users/janar/janars/prototypes/voicecastvideo/CastCompanionLibrary-android/res/values/captions.xml -->
     <eat-comment />
 
     <string name="ccl_key_caption_background_color">ccl_caption_background_color</string>
@@ -132,7 +132,7 @@
     <string name="ccl_key_caption_font_scale">ccl_caption_font_scale</string>
     <string name="ccl_key_caption_text_color">ccl_caption_text_color</string>
     <string name="ccl_key_caption_text_opacity">ccl_caption_text_opacity</string>
-    <!-- From: file:/Users/janar/Android/samples/chromecast/CastVideos-android/CastCompanionLibrary-android/res/values/strings.xml -->
+    <!-- From: file:/Users/janar/janars/prototypes/voicecastvideo/CastCompanionLibrary-android/res/values/strings.xml -->
     <eat-comment />
 
     <string name="ccl_version">1.10</string>
@@ -164,7 +164,7 @@
     <string name="off">Off</string>
     <string name="ok">OK</string>
     <string name="on">On</string>
-    <!-- From: file:/Users/janar/Android/samples/chromecast/CastVideos-android/CastCompanionLibrary-android/res/values/captions.xml -->
+    <!-- From: file:/Users/janar/janars/prototypes/voicecastvideo/CastCompanionLibrary-android/res/values/captions.xml -->
     <eat-comment />
 
     <string name="pick_tracks">Tracks</string>
@@ -186,11 +186,11 @@
     <string name="prefs_caption_text_color_value_default">#FFFFFF</string>
     <string name="prefs_caption_text_opacity_title">Text Opacity</string>
     <string name="prefs_caption_text_opacity_value_default">FF</string>
-    <!-- From: file:/Users/janar/Android/samples/chromecast/CastVideos-android/CastCompanionLibrary-android/res/values/strings.xml -->
+    <!-- From: file:/Users/janar/janars/prototypes/voicecastvideo/CastCompanionLibrary-android/res/values/strings.xml -->
     <eat-comment />
 
     <string name="session_reconnection_attempt">Attempting to recover previous session…</string>
-    <!-- From: file:/Users/janar/Android/samples/chromecast/CastVideos-android/CastCompanionLibrary-android/res/values/styles.xml -->
+    <!-- From: file:/Users/janar/janars/prototypes/voicecastvideo/CastCompanionLibrary-android/res/values/styles.xml -->
     <eat-comment />
 
     <style name="AppBaseTheme" parent="android:Theme.Light">

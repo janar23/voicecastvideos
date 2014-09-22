@@ -73,4 +73,4 @@
         android:maxLines="1"
         android:textAppearance="@style/android:TextAppearance.StatusBar.EventContent"/>
 
-</RelativeLayout><!-- From: file:/Users/janar/Android/samples/chromecast/CastVideos-android/CastCompanionLibrary-android/res/layout/custom_notification.xml -->
+</RelativeLayout><!-- From: file:/Users/janar/janars/prototypes/voicecastvideo/CastCompanionLibrary-android/res/layout/custom_notification.xml -->

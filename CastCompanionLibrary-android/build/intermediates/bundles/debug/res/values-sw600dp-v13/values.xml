@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/Users/janar/Android/samples/chromecast/CastVideos-android/CastCompanionLibrary-android/res/values-sw600dp/dimens.xml -->
+    <!-- From: file:/Users/janar/janars/prototypes/voicecastvideo/CastCompanionLibrary-android/res/values-sw600dp/dimens.xml -->
     <eat-comment />
 
     <dimen name="mini_controller_font_size_line1">15sp</dimen>

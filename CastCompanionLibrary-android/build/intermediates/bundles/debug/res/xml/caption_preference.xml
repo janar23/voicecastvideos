@@ -65,4 +65,4 @@
             android:title="@string/prefs_caption_background_opacity_title" />
     </PreferenceCategory>
 
-</PreferenceScreen><!-- From: file:/Users/janar/Android/samples/chromecast/CastVideos-android/CastCompanionLibrary-android/res/xml/caption_preference.xml -->
+</PreferenceScreen><!-- From: file:/Users/janar/janars/prototypes/voicecastvideo/CastCompanionLibrary-android/res/xml/caption_preference.xml -->

@@ -18,4 +18,4 @@
           android:drawable="@drawable/ic_closed_caption_grey"/>
     <!-- default -->
     <item android:drawable="@drawable/ic_closed_caption_white"/>
-</selector><!-- From: file:/Users/janar/Android/samples/chromecast/CastVideos-android/CastCompanionLibrary-android/res/drawable/cc.xml -->
+</selector><!-- From: file:/Users/janar/janars/prototypes/voicecastvideo/CastCompanionLibrary-android/res/drawable/cc.xml -->

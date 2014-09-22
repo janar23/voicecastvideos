@@ -61,4 +61,4 @@
         android:maxLines="1"
         android:textSize="@dimen/mini_controller_font_size_line2"/>
 
-</RelativeLayout><!-- From: file:/Users/janar/Android/samples/chromecast/CastVideos-android/CastCompanionLibrary-android/res/layout/mini_controller.xml -->
+</RelativeLayout><!-- From: file:/Users/janar/janars/prototypes/voicecastvideo/CastCompanionLibrary-android/res/layout/mini_controller.xml -->
