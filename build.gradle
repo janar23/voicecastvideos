@@ -1,0 +1,47 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:0.12.+'
+    }
+}
+
+repositories {
+    mavenCentral()
+    flatDir {
+        dirs 'libs'
+    }
+}
+
+apply plugin: 'android'
+
+android {
+    compileSdkVersion 20
+    buildToolsVersion '20.0.0'
+    defaultConfig {
+        minSdkVersion 20
+        targetSdkVersion 20
+    }
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            java.srcDirs = ['src']
+            res.srcDirs = ['res']
+        }
+    }
+    lintOptions {
+        abortOnError false
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    compile files('libs/android-query.0.25.10.jar')
+    // to get around https://code.google.com/p/android/issues/detail?id=52962, we need to
+    // depend on both debug and release versions of the library
+    releaseCompile project(path: ':CastCompanionLibrary-android', configuration: 'release')
+    debugCompile project(path: ':CastCompanionLibrary-android', configuration: 'debug')
+    compile 'com.github.amlcurran.showcaseview:ShowCaseLibrary@aar'
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CastCompanionLibrary-android/CastCompanionLibrary-android.iml" filepath="$PROJECT_DIR$/CastCompanionLibrary-android/CastCompanionLibrary-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cast_wear/cast_wear.iml" filepath="$PROJECT_DIR$/cast_wear/cast_wear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/voicecastvideo.iml" filepath="$PROJECT_DIR$/voicecastvideo.iml" />
+    </modules>
+  </component>
+</project>
+

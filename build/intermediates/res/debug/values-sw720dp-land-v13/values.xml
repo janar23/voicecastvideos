@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/janar/janars/prototypes/voicecastvideo/res/values-sw720dp-land/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">128dp</dimen>
+    <!-- From: file:/Users/janar/janars/prototypes/voicecastvideo/build/intermediates/exploded-aar/voicecastvideo/CastCompanionLibrary-android/unspecified/debug/res/values-sw720dp-land-v13/values.xml -->
+    <eat-comment />
+
+    <dimen name="ccl_castplayer_bgimage_width">500dp</dimen>
+    <!-- From: file:/Users/janar/janars/prototypes/voicecastvideo/res/values-sw720dp-land/integers.xml -->
+    <eat-comment />
+
+    <integer name="column_count">5</integer>
+
+</resources>
